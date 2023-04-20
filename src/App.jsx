@@ -1,7 +1,12 @@
 import React from "react";
 import "./App.css";
+import View from "./routes/View";
 const App = () => {
-  return <div>App</div>;
+  return (
+    <>
+      <View />
+    </>
+  );
 };
 
 export default App;
