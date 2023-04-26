@@ -10,4 +10,5 @@
 ***Feel free to clone it for your projects :)***    
 
 Provided by - [Swam Htet Aung](https://github.com/swamhtetaung8)
+
 Typescript version here - [See React Typescript starter](https://github.com/swamhtetaung8/react-ts-starter)
